@@ -3,6 +3,7 @@ from fastapi.responses import HTMLResponse
 import pandas as pd
 from typing import List
 from typing import Union
+import uvicorn
 
 app = FastAPI()
 @app.get("/", response_class=HTMLResponse)
