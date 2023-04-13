@@ -66,6 +66,7 @@ El Sistema de Recomendación consistió en sugerir películas o series a usuario
 
 Puedes entrar al sistema de recomendación de películas desde el siguiente [link](https://huggingface.co/spaces/adaap/Streaming)
 
-
+## STATUS
+En progreso
 
 
