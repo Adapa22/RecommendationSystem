@@ -58,7 +58,7 @@ Se realizaron 4 funciones en python para la realizar las consultas asignadas. Si
 
 4.	Actor que más se repite según plataforma y año. (La función debe llamarse get_actor (platform, year)).
 
-Link de la API (Se necesita estar registrado en https://www.deta.space) : [Ir a la API](https://deta.space/discovery/r/fwh64xt3w8oaqhdv)
+Link de la API (Se necesita estar registrado en https://render.com/) : [Ir a la RENDER](https://ada-rsystem.onrender.com/)
 
 ## SISTEMA DE RECOMENDACIÓN
 
